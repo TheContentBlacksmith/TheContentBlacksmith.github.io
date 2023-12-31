@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>Tradeplex</title>
+
+        <link rel="shortcut icon" href="https://projectsite69420.w3spaces.com/Website-imgs/Tradeplex_logo2.png">
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+
+        <div id="bar"><img src="https://projectsite69420.w3spaces.com/Website-imgs/Tradeplex_logo.png" alt="" width="100px" height="100px"><h1>Tradeplex</h1></div height="50px">
+        
+        
+        <div>
+            <img src="https://projectsite69420.w3spaces.com/Website-imgs/Tradeplex_logo.png" alt="" width="100px" height="100px"> <h3>Item name</h3>
+            <p>item price</p>
+        </div>
+        
+        <script src="scripts.js"></script>
+        
+    </body>
+
+</html>

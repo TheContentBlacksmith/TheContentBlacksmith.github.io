@@ -1,0 +1,36 @@
+h1 {
+    color:rgb(255, 255, 255);
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+p {
+    margin:30px;
+}
+
+h3 {
+    margin:30px;
+}
+
+body {
+    Background-color:#1a2136;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+div {
+    color:white;
+    border:solid rgb(13, 14, 41) ;
+    border-radius:50px;
+    margin:50px;
+    background-color:rgb(13, 14, 41);
+    padding:0px;
+}
+
+#bar {
+    border-radius:0;
+    position:sticky;
+    background-color:rgb(13, 14, 41);
+    top:0px;
+    margin:0px;
+    
+}
